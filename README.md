@@ -1,7 +1,6 @@
 # Java maven app with Docker
 
-This repository is a demonstration about the creation of a Docker Java application with Maven build uses Oracle Linux 7 as its base image.
-
+This repository is a demonstration to create a Docker Java application with Maven build that uses Oracle Linux 7 as its base image.
 To run this image by using this command:
 
 ```sh
